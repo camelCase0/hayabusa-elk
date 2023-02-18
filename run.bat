@@ -1,0 +1,1 @@
+.\hayabusa-2.2.0-win-x64.exe csv-timeline -d .\log_for_analys\ -o .\output\results.csv -p super-verbose
